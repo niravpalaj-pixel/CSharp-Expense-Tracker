@@ -1,4 +1,4 @@
-# CSharp Expense Tracker
+  # CSharp Expense Tracker
 
 A simple console-based Expense Tracker application built using C# and .NET Framework 4.7.2.
 
