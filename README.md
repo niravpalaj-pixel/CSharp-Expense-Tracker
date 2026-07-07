@@ -21,14 +21,13 @@ A simple console-based Expense Tracker application built using C# and .NET Frame
 ## Project Purpose
 This project was created to practice core C# programming concepts and build a simple real-world console application.
 
-
 ## Screenshots
 
 ### Main Menu
-![Main Menu](Screenshots/MainMenu.png)
+![Main Menu](./Screenshots/MainMenu.png)
 
 ### Add Expense
-![Add Expense](Screenshots/AddExpense.png)
+![Add Expense](./Screenshots/AddExpense.png)
 
 ### View Expenses
-![View Expenses](Screenshots/ViewExpenses.png)
+![View Expenses](./Screenshots/ViewExpenses.png)
