@@ -24,10 +24,16 @@ This project was created to practice core C# programming concepts and build a si
 ## Screenshots
 
 ### Main Menu
-![Main Menu](./Screenshots/MainMenu.png)
+![Main Menu](MainMenu.png)
 
 ### Add Expense
-![Add Expense](./Screenshots/AddExpense.png)
+![Add Expense](AddExpense.png)
 
 ### View Expenses
-![View Expenses](./Screenshots/ViewExpenses.png)
+![View Expenses](ViewExpenses.png)
+
+### Show Total Expense
+![Show Total Expense](ShowTotalExpense.png)
+
+### Delete Expense
+![Delete Expense](DeleteExpense.png)
